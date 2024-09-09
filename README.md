@@ -1,1 +1,1 @@
-# C-Programming-Basics
+The Programming Basics course equips students with essential programming skills, foundational for all tech specialties at SoftUni. Key topics include basic coding, using an IDE, working with variables, data types, operators, console input/output, conditional statements (if, if-else), and loops (for, while)
